@@ -1,4 +1,4 @@
-# Dominic-Wuerfel-Bot
+# Wuerfel-Bot
 
 This is a Discord Bot for Dominic! 
 
