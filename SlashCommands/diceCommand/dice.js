@@ -42,7 +42,7 @@ module.exports = {
 
         for (let i=0; i<dices; i++) {
 
-            const number = Math.floor(Math.random() * sitesNumber + 1);
+            const number = Math.floor(Math.random() * sitesNumber) + 1;
             results.push(number);
         }
 
