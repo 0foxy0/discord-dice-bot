@@ -3,7 +3,7 @@
 This is a Discord Bot for a Customer! 
 
 
-You can throw dices with a Command named /wuerfel! #example: /wuerfel 2 D6 = throws 2 dices with 6 sites
+You can throw dices with a Command called /wuerfel! #example: /wuerfel 2 D6 = throws 2 dices with 6 sites
 
 
 
