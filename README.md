@@ -1,6 +1,6 @@
 ## Discord Dice Bot
 
-For any further questions, you may raise an issue or contact me on Discord here: [Coming Soon]()
+For any further questions, you may raise an issue or contact me on Discord: [Coming Soon]()
 
 # Informations and Instructions
 
