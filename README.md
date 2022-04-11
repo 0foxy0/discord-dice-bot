@@ -1,10 +1,23 @@
-# Wuerfel-Bot
+## Discord Dice Bot
 
-This is a Discord Bot for a Customer! 
+For any further questions, you may raise an issue or contact me on Discord here: [Coming Soon]()
 
+# Informations and Instructions
 
-You can throw dices with a Command called /wuerfel! #example: /wuerfel 2 D6 = throws 2 dices with 6 sites
+Before you get started, there are a few pre-requisites that you MUST have. Please do not proceed until you have:
 
+- German Language Knowledge
+- JavaScript Knowledge
+- NodeJS v16.13.0 installed
 
+---
 
-The Bot is only available on german!
+To setup this project, you need to clone this repository.
+
+1. Clone using SSH or HTTPS
+
+   `git clone git@github.com:0foxy0/dice-bot.git`
+
+The package manager I used for this project, and use generally, is `yarn`. You may use `npm` if you wish however if you run into any issues with installing dependencies or building, consider switching to `yarn`.
+
+2. `cd` into the cloned project, and then install dependencies using `npm install` or `yarn install`.
