@@ -16,7 +16,7 @@ To setup this project, you need to clone this repository.
 
 1. Clone using SSH or HTTPS
 
-   `git clone git@github.com:0foxy0/dice-bot.git`
+   `git clone git@github.com:0foxy0/discord-dice-bot.git`
 
 The package manager I used for this project, and use generally, is `yarn`. You may use `npm` if you wish however if you run into any issues with installing dependencies or building, consider switching to `yarn`.
 
